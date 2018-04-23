@@ -18,6 +18,8 @@ This is a simple text
 
 7. Seventh change
 
+8. Eigth change
+
 8. Eigth A change
 
 9. Ninth change
