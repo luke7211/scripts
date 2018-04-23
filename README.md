@@ -12,4 +12,9 @@ This is a simple text
 
 5. Fourth B change
 
+6. Sixth A change
+
 6. Sixth B change
+
+7. Seventh change
+
